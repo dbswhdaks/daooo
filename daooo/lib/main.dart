@@ -22,7 +22,7 @@ class MainPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('안녕하세요'),
+        title: Text('주문하세요'),
         centerTitle: true,
       ),
       body: const Placeholder(),
